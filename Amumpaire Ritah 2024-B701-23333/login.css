@@ -1,0 +1,55 @@
+
+ .nav-bar {
+     background-color: maroon;
+     padding: 10px 0;
+     }
+ body{
+    background-color: black;
+ }
+
+ .nav-bar .nav-item {
+      color: white;
+     padding: 10px 15px;
+     }
+
+.nav-bar .nav-item:hover {
+     background-color:rgb(37, 45, 45);
+    }
+
+.nav-class {
+    margin-top: 50px;
+    margin-left: 27%;
+    padding: 20px;
+    background-color: grey;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px lightskyblue;
+    width: 500px;
+ }
+ .yellow-btn {
+      background-color: red;
+      color: white;
+      font-weight: bold;
+}
+
+.forgot {
+     text-align: center;
+     margin-bottom: 30px;
+     margin-left: 250px;
+     
+ }
+ .form-check{
+    margin-top: 20px;
+
+ }
+
+.forgot a {
+    color: maroon;
+    }
+    
+.forgot a:hover {
+     text-decoration: underline;
+    }
+.form-control {
+     background-color: antiquewhite;
+     border-radius: 10px;
+}
